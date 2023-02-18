@@ -1,6 +1,6 @@
 ### Hi! my name is Raúl 👋
 <br>
-I'm a junior cross-platform development. I'm from Valencia SPAIN 💻📲
+I'm a junior cross-platform developer. I'm from Valencia SPAIN 💻📲
 <br>
 <br>
 <img src = "https://i.imgur.com/iLAIiap.png">
